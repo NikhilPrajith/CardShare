@@ -5,7 +5,7 @@ A simple app for users to share their business cards and connect with profession
 
 ### Description
 
-This is an app that allows users to create a digital business card and share it with others using the scanning of a QR Code or using an NFC reader. 
+Goal: This is an app that allows users to create a digital business card and share it with others using the scanning of a QR Code or using an NFC reader. 
 Furthermore, users can message their connections and share information. 
 
 ### Build 1
